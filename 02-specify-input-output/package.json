@@ -1,0 +1,14 @@
+{
+  "name": "02-specify-input-output",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
